@@ -1,5 +1,3 @@
-package com.zappos.interview;
-
 import java.util.Scanner;
 
 public class LoveLetterMystery {
